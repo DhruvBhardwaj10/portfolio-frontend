@@ -8,8 +8,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Projects from './pages/Project'
 import Skills from './pages/Skills'
-import Experience from './pages/Experience'
-import Blog from './pages/Blog'
+
 import Contact from './pages/Contact'
 
 
