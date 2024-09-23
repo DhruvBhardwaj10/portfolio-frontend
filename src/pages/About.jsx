@@ -157,7 +157,7 @@ export default function About() {
               </CardHeader>
               <CardContent>
                 <Button className="w-full" asChild>
-                  <a href="https://drive.google.com/file/d/1utJ7G3b80RAjUG5x5aEpx-sLUGUq0-mR/view?usp=sharing" download>
+                  <a href="https://drive.google.com/file/d/1GJCQFWWthjVlYhVjZ4VzhCOd2MqcLh9y/view?usp=sharing" download>
                     <Download className="mr-2 h-4 w-4" />
                     Download CV
                   </a>
